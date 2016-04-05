@@ -1,2 +1,3 @@
 # first_repo
-Its learning phase. Will be back with many new projects
+This repo is created only for learning purpose 
+I will be adding other features soon
